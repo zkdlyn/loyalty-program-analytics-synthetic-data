@@ -1,0 +1,97 @@
+reward_id,reward_name,reward_type,min_membership_tier,points_cost,valid_start,valid_end
+1,Free Brewed Coffee,Food,Bronze,150,2022-01-01,2022-03-20 00:00:00.000000
+2,Free Iced Coffee,Food,Bronze,280,2022-01-01,2022-03-20 00:00:00.000000
+3,Planner Set,Merch,Silver,1950,2022-01-01,2022-03-20 00:00:00.000000
+4,Free Pastry,Food,Bronze,250,2022-01-01,2022-03-20 00:00:00.000000
+5,Free Sticker Pack,Merch,Bronze,200,2022-01-01,2022-03-20 00:00:00.000000
+6,Free Drink Upsize,Food,Bronze,220,2022-01-01,2022-03-20 00:00:00.000000
+7,Free Brewed Coffee,Food,Bronze,250,2022-03-21,2022-06-30 00:00:00.000000
+8,Free Sticker Pack,Merch,Bronze,100,2022-03-21,2022-06-30 00:00:00.000000
+9,Limited Edition Tumbler,Merch,Gold,3000,2022-03-21,2022-06-30 00:00:00.000000
+10,Reusable Cup,Merch,Silver,1950,2022-03-21,2022-06-30 00:00:00.000000
+11,Planner Set,Merch,Silver,2000,2022-03-21,2022-06-30 00:00:00.000000
+12,Free Drink Upsize,Food,Bronze,220,2022-03-21,2022-06-30 00:00:00.000000
+13,Reusable Cup,Merch,Silver,2000,2022-07-01,2022-09-22 00:00:00.000000
+14,Free Pastry,Food,Bronze,300,2022-07-01,2022-09-22 00:00:00.000000
+15,Free Sticker Pack,Merch,Bronze,100,2022-07-01,2022-09-22 00:00:00.000000
+16,Tote Bag,Merch,Bronze,1550,2022-07-01,2022-09-22 00:00:00.000000
+17,Free Brewed Coffee,Food,Bronze,250,2022-07-01,2022-09-22 00:00:00.000000
+18,Free Pastry,Food,Bronze,250,2022-09-23,2023-01-15 00:00:00.000000
+19,Free Brewed Coffee,Food,Bronze,150,2022-09-23,2023-01-15 00:00:00.000000
+20,Limited Edition Tumbler,Merch,Gold,3000,2022-09-23,2023-01-15 00:00:00.000000
+21,Free Drink Upsize,Food,Bronze,170,2022-09-23,2023-01-15 00:00:00.000000
+22,Free Iced Coffee,Food,Bronze,230,2022-09-23,2023-01-15 00:00:00.000000
+23,Limited Edition Tumbler,Merch,Gold,2950,2023-01-16,2023-04-15 00:00:00.000000
+24,Tote Bag,Merch,Bronze,1500,2023-01-16,2023-04-15 00:00:00.000000
+25,Free Sticker Pack,Merch,Bronze,100,2023-01-16,2023-04-15 00:00:00.000000
+26,Free Iced Coffee,Food,Bronze,230,2023-01-16,2023-04-15 00:00:00.000000
+27,Planner Set,Merch,Silver,2100,2023-01-16,2023-04-15 00:00:00.000000
+28,Reusable Cup,Merch,Silver,1950,2023-04-16,2023-06-16 00:00:00.000000
+29,Free Iced Coffee,Food,Bronze,130,2023-04-16,2023-06-16 00:00:00.000000
+30,Free Brewed Coffee,Food,Bronze,200,2023-04-16,2023-06-16 00:00:00.000000
+31,Tote Bag,Merch,Bronze,1550,2023-04-16,2023-06-16 00:00:00.000000
+32,Free Pastry,Food,Bronze,300,2023-04-16,2023-06-16 00:00:00.000000
+33,Planner Set,Merch,Silver,2050,2023-04-16,2023-06-16 00:00:00.000000
+34,Free Pastry,Food,Bronze,200,2023-06-17,2023-09-28 00:00:00.000000
+35,Free Sticker Pack,Merch,Bronze,100,2023-06-17,2023-09-28 00:00:00.000000
+36,Limited Edition Tumbler,Merch,Gold,3050,2023-06-17,2023-09-28 00:00:00.000000
+37,Tote Bag,Merch,Bronze,1450,2023-06-17,2023-09-28 00:00:00.000000
+38,Free Brewed Coffee,Food,Bronze,150,2023-06-17,2023-09-28 00:00:00.000000
+39,Free Sticker Pack,Merch,Bronze,200,2023-09-29,2023-12-18 00:00:00.000000
+40,Planner Set,Merch,Silver,2050,2023-09-29,2023-12-18 00:00:00.000000
+41,Free Iced Coffee,Food,Bronze,280,2023-09-29,2023-12-18 00:00:00.000000
+42,Reusable Cup,Merch,Silver,2100,2023-09-29,2023-12-18 00:00:00.000000
+43,Tote Bag,Merch,Bronze,1500,2023-09-29,2023-12-18 00:00:00.000000
+44,Free Drink Upsize,Food,Bronze,170,2023-09-29,2023-12-18 00:00:00.000000
+45,Free Iced Coffee,Food,Bronze,280,2023-12-19,2024-03-05 00:00:00.000000
+46,Limited Edition Tumbler,Merch,Gold,3000,2023-12-19,2024-03-05 00:00:00.000000
+47,Free Drink Upsize,Food,Bronze,220,2023-12-19,2024-03-05 00:00:00.000000
+48,Planner Set,Merch,Silver,2000,2023-12-19,2024-03-05 00:00:00.000000
+49,Reusable Cup,Merch,Silver,2050,2024-03-06,2024-06-23 00:00:00.000000
+50,Limited Edition Tumbler,Merch,Gold,3100,2024-03-06,2024-06-23 00:00:00.000000
+51,Free Sticker Pack,Merch,Bronze,100,2024-03-06,2024-06-23 00:00:00.000000
+52,Tote Bag,Merch,Bronze,1550,2024-03-06,2024-06-23 00:00:00.000000
+53,Planner Set,Merch,Silver,2000,2024-03-06,2024-06-23 00:00:00.000000
+54,Free Brewed Coffee,Food,Bronze,200,2024-03-06,2024-06-23 00:00:00.000000
+55,Limited Edition Tumbler,Merch,Gold,3000,2024-06-24,2024-10-02 00:00:00.000000
+56,Tote Bag,Merch,Bronze,1550,2024-06-24,2024-10-02 00:00:00.000000
+57,Free Drink Upsize,Food,Bronze,120,2024-06-24,2024-10-02 00:00:00.000000
+58,Reusable Cup,Merch,Silver,1950,2024-06-24,2024-10-02 00:00:00.000000
+59,Free Iced Coffee,Food,Bronze,280,2024-06-24,2024-10-02 00:00:00.000000
+60,Planner Set,Merch,Silver,2100,2024-10-03,2024-12-15 00:00:00.000000
+61,Free Pastry,Food,Bronze,200,2024-10-03,2024-12-15 00:00:00.000000
+62,Tote Bag,Merch,Bronze,1500,2024-10-03,2024-12-15 00:00:00.000000
+63,Free Iced Coffee,Food,Bronze,230,2024-10-03,2024-12-15 00:00:00.000000
+64,Free Drink Upsize,Food,Bronze,220,2024-10-03,2024-12-15 00:00:00.000000
+65,Free Brewed Coffee,Food,Bronze,250,2024-10-03,2024-12-15 00:00:00.000000
+66,Reusable Cup,Merch,Silver,2000,2024-12-16,2025-02-20 00:00:00.000000
+67,Free Pastry,Food,Bronze,250,2024-12-16,2025-02-20 00:00:00.000000
+68,Free Brewed Coffee,Food,Bronze,100,2024-12-16,2025-02-20 00:00:00.000000
+69,Free Sticker Pack,Merch,Bronze,100,2024-12-16,2025-02-20 00:00:00.000000
+70,Free Sticker Pack,Merch,Bronze,150,2025-02-21,2025-06-20 00:00:00.000000
+71,Free Drink Upsize,Food,Bronze,170,2025-02-21,2025-06-20 00:00:00.000000
+72,Free Brewed Coffee,Food,Bronze,200,2025-02-21,2025-06-20 00:00:00.000000
+73,Free Pastry,Food,Bronze,200,2025-02-21,2025-06-20 00:00:00.000000
+74,Reusable Cup,Merch,Silver,1950,2025-02-21,2025-06-20 00:00:00.000000
+75,Free Iced Coffee,Food,Bronze,180,2025-02-21,2025-06-20 00:00:00.000000
+76,Free Pastry,Food,Bronze,200,2025-06-21,2025-10-05 00:00:00.000000
+77,Free Sticker Pack,Merch,Bronze,150,2025-06-21,2025-10-05 00:00:00.000000
+78,Free Iced Coffee,Food,Bronze,180,2025-06-21,2025-10-05 00:00:00.000000
+79,Reusable Cup,Merch,Silver,2000,2025-06-21,2025-10-05 00:00:00.000000
+80,Limited Edition Tumbler,Merch,Gold,3050,2025-06-21,2025-10-05 00:00:00.000000
+81,Tote Bag,Merch,Bronze,1550,2025-06-21,2025-10-05 00:00:00.000000
+82,Tote Bag,Merch,Bronze,1550,2025-10-06,2026-01-03 00:00:00.000000
+83,Reusable Cup,Merch,Silver,1950,2025-10-06,2026-01-03 00:00:00.000000
+84,Free Drink Upsize,Food,Bronze,220,2025-10-06,2026-01-03 00:00:00.000000
+85,Planner Set,Merch,Silver,2000,2025-10-06,2026-01-03 00:00:00.000000
+86,Free Brewed Coffee,Food,Bronze,150,2025-10-06,2026-01-03 00:00:00.000000
+87,Free Brewed Coffee,Food,Bronze,150,2026-01-04,2026-03-06 00:00:00.000000
+88,Free Drink Upsize,Food,Bronze,100,2026-01-04,2026-03-06 00:00:00.000000
+89,Limited Edition Tumbler,Merch,Gold,3050,2026-01-04,2026-03-06 00:00:00.000000
+90,Planner Set,Merch,Silver,2000,2026-01-04,2026-03-06 00:00:00.000000
+91,Free Sticker Pack,Merch,Bronze,150,2026-03-07,2026-04-29 16:33:53.732426
+92,Free Drink Upsize,Food,Bronze,120,2026-03-07,2026-04-29 16:33:53.732426
+93,Planner Set,Merch,Silver,2000,2026-03-07,2026-04-29 16:33:53.732426
+94,Free Iced Coffee,Food,Bronze,130,2026-03-07,2026-04-29 16:33:53.732426
+95,Free Brewed Coffee,Food,Bronze,200,2026-03-07,2026-04-29 16:33:53.732426
+96,Birthday Free Pastry,Promo,Bronze,0,,
