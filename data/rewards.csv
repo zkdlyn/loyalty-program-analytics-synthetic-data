@@ -89,9 +89,18 @@ reward_id,reward_name,reward_type,min_membership_tier,points_cost,valid_start,va
 88,Free Drink Upsize,Food,Bronze,100,2026-01-04,2026-03-06 00:00:00.000000
 89,Limited Edition Tumbler,Merch,Gold,3050,2026-01-04,2026-03-06 00:00:00.000000
 90,Planner Set,Merch,Silver,2000,2026-01-04,2026-03-06 00:00:00.000000
-91,Free Sticker Pack,Merch,Bronze,150,2026-03-07,2026-04-29 16:33:53.732426
-92,Free Drink Upsize,Food,Bronze,120,2026-03-07,2026-04-29 16:33:53.732426
-93,Planner Set,Merch,Silver,2000,2026-03-07,2026-04-29 16:33:53.732426
-94,Free Iced Coffee,Food,Bronze,130,2026-03-07,2026-04-29 16:33:53.732426
-95,Free Brewed Coffee,Food,Bronze,200,2026-03-07,2026-04-29 16:33:53.732426
-96,Birthday Free Pastry,Promo,Bronze,0,,
+91,Free Sticker Pack,Merch,Bronze,150,2026-03-07,2026-06-22 00:00:00.000000
+92,Free Drink Upsize,Food,Bronze,120,2026-03-07,2026-06-22 00:00:00.000000
+93,Planner Set,Merch,Silver,2000,2026-03-07,2026-06-22 00:00:00.000000
+94,Free Iced Coffee,Food,Bronze,130,2026-03-07,2026-06-22 00:00:00.000000
+95,Free Brewed Coffee,Food,Bronze,200,2026-03-07,2026-06-22 00:00:00.000000
+96,Tote Bag,Merch,Bronze,1500,2026-06-23,2026-09-17 00:00:00.000000
+97,Free Pastry,Food,Bronze,300,2026-06-23,2026-09-17 00:00:00.000000
+98,Limited Edition Tumbler,Merch,Gold,3000,2026-06-23,2026-09-17 00:00:00.000000
+99,Free Sticker Pack,Merch,Bronze,100,2026-06-23,2026-09-17 00:00:00.000000
+100,Free Brewed Coffee,Food,Bronze,150,2026-06-23,2026-09-17 00:00:00.000000
+101,Free Drink Upsize,Food,Bronze,120,2026-09-18,2026-11-10 16:30:00.372216
+102,Tote Bag,Merch,Bronze,1450,2026-09-18,2026-11-10 16:30:00.372216
+103,Free Iced Coffee,Food,Bronze,130,2026-09-18,2026-11-10 16:30:00.372216
+104,Reusable Cup,Merch,Silver,2000,2026-09-18,2026-11-10 16:30:00.372216
+105,Birthday Free Pastry,Promo,Bronze,0,,
